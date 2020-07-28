@@ -1500,7 +1500,7 @@
     #endif
 
     #if AXIS_IS_TMC(Z)
-        #define Z_CURRENT 350 //530//650
+        #define Z_CURRENT 530 //650
         #define Z_MICROSTEPS 8 //16
         #define Z_RSENSE 0.22
     #endif
